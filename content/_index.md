@@ -4,7 +4,7 @@ title: "Patrick Crutchley"
 description: "Data Science, Psychology, Coffee"
 ---
 
-Work in progress.
+A work in progress web presence. [About me.](about.md)
 
 {{< figure
     src="img/kulshan.jpg"
