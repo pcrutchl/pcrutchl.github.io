@@ -1,8 +1,0 @@
-baseURL = 'https://pcrutchl.github.io'
-languageCode = 'en-us'
-title = 'Patrick Crutchley'
-theme = "ananke"
-
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://instagram.com/supercres"
