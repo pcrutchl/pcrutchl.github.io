@@ -8,4 +8,4 @@ After neglecting my web presence for way too long, supercres.net is in the proce
 
 I just got really tired of finding a decent static-ish Wordpress template.
 
-Naturally it's not even at its new URL as I write this.
+Naturally it's not even at its proper URL as I write this.
