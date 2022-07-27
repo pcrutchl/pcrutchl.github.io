@@ -1,0 +1,4 @@
+baseURL = 'https://pcrutchl.github.io'
+languageCode = 'en-us'
+title = 'Patrick Crutchley'
+theme = "ananke"
