@@ -1,6 +1,6 @@
 baseURL: 'https://pcrutchl.github.io'
 languageCode: en-us
-title: Patrick Crutchley
+title: 'supercres.net'
 theme: ananke
 
 DefaultContentLanguage: en
@@ -25,4 +25,6 @@ params:
   ananke_socials:
     - name: instagram
       url: 'https://instagram.com/supercres'
+    - name: github
+      url: 'https://github.com/pcrutchl'
 
