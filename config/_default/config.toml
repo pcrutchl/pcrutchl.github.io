@@ -6,8 +6,15 @@ baseURL = "https://pcrutchl.github.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
+enableGitInfo = true
 paginate = 10
 summaryLength = 0
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]

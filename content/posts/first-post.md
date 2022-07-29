@@ -1,6 +1,7 @@
 ---
 title: "The next iteration of supercres.net"
-date: 2022-07-28T16:42:14-07:00
+date: 2022-07-27T12:45:39-07:00
+# lastmod: "2022-07-28"
 draft: False
 ---
 

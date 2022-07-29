@@ -30,7 +30,7 @@ showRecent = true
 
 [article]
 showDate = true
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showBreadcrumbs = false
 showDraftLabel = true
@@ -40,7 +40,7 @@ editAppendPath = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = false
 showTaxonomies = false
 showWordCount = false
