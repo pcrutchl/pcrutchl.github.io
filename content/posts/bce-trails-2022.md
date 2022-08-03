@@ -11,10 +11,15 @@ Enter the yearly [Backcountry Essentials](https://backcountryessentials.net) Tra
 Anyway, it's fun, and pushes me to get out and see new places. The trails are almost always stunning, and often less crowded than the North Cascades' greatest hits. Here's 2022's trail reports, in which I tried to get creative with layouts etc:
 
 1. [Fragrance Lake via Two Dollar Trail {{< icon "instagram" >}}](https://www.instagram.com/p/Cd4DFmJPYK9/)
-2. [Baker Lake {{< icon "instagram" >}}](https://www.instagram.com/p/CfpCAE1PUwr/) [(GPS track part 1)](https://www.gaiagps.com/map/?loc=15.2/-121.6780/48.6524&pubLink=52TWvWfCsYsu5sCc0ebriT8J&trackId=22e0f9654e2099e3f882614705c917ec) [(GPS track part 2)](https://www.gaiagps.com/map/?loc=15.2/-121.6780/48.6524&pubLink=52TWvWfCsYsu5sCc0ebriT8J&trackId=22e0f9654e2099e3f882614705c917ec)
-3. [Chuckanut Ridge Trail {{< icon "instagram" >}}](https://www.instagram.com/p/CfP3g9DJ0JH/) [(GPS track)](https://www.gaiagps.com/map/?loc=14.3/-122.4922/48.6893&pubLink=VmXZI9c2DFuIngWc0djOhBaO&trackId=b54e7c5b56eedf04fe62b7afb8d5aad2)
-4. [Thunder Creek {{< icon "instagram" >}}](https://www.instagram.com/p/Cf2CmNxvoUs/) [(GPS track, descent only)](https://www.gaiagps.com/map/?loc=13.0/-121.0960/48.6543&pubLink=VeIiz57feK1C9xjAd12UmW8y&trackId=006d9a8dcc7355ec893778f671b4573d)
-5. [Park Butte {{< icon "instagram" >}}](https://www.instagram.com/p/CgvpmF6uF1J/) [(GPS track, descent only)](https://www.gaiagps.com/map/?loc=14.3/-121.8405/48.7121&pubLink=eor1ONrUz8CWxnATfyyVBe9D&trackId=16de681c340c18079e1017ff177ee2d9)
+2. [Baker Lake {{< icon "instagram" >}}](https://www.instagram.com/p/CfpCAE1PUwr/)
+   - [GPS track part 1](https://www.gaiagps.com/map/?loc=15.2/-121.6780/48.6524&pubLink=52TWvWfCsYsu5sCc0ebriT8J&trackId=22e0f9654e2099e3f882614705c917ec)
+   - [GPS track part 2](https://www.gaiagps.com/map/?loc=15.2/-121.6780/48.6524&pubLink=52TWvWfCsYsu5sCc0ebriT8J&trackId=22e0f9654e2099e3f882614705c917ec)
+3. [Chuckanut Ridge Trail {{< icon "instagram" >}}](https://www.instagram.com/p/CfP3g9DJ0JH/)
+   - [GPS track](https://www.gaiagps.com/map/?loc=14.3/-122.4922/48.6893&pubLink=VmXZI9c2DFuIngWc0djOhBaO&trackId=b54e7c5b56eedf04fe62b7afb8d5aad2)
+4. [Thunder Creek {{< icon "instagram" >}}](https://www.instagram.com/p/Cf2CmNxvoUs/)
+   - [GPS track, descent only](https://www.gaiagps.com/map/?loc=13.0/-121.0960/48.6543&pubLink=VeIiz57feK1C9xjAd12UmW8y&trackId=006d9a8dcc7355ec893778f671b4573d)
+5. [Park Butte {{< icon "instagram" >}}](https://www.instagram.com/p/CgvpmF6uF1J/)
+   - [GPS track, descent only](https://www.gaiagps.com/map/?loc=14.3/-121.8405/48.7121&pubLink=eor1ONrUz8CWxnATfyyVBe9D&trackId=16de681c340c18079e1017ff177ee2d9)
 
 
 Still to come:
