@@ -30,7 +30,7 @@ Still to come:
 1. Yellow Aster Butte [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=LzLVBZsmhs6afqVtCHi7M8E8&trackId=545fcc03-da05-4913-8750-af4d400cc775)
    - 8.25 mi round trip
    - 3,495 ft total ascent
-   - 13.6% avg grade on ascent, with a 16.5% grade × 1.73 mi section out of the trailhead, and a 28.6% grade × 0.25 mi scramble up to the [false summit](https://www.gaiagps.com/map/?loc=16.8/-121.6830/48.9514&layer=GaiaTopoRasterFeet&osmData=%7B%22type%22%3A%22osm%22%2C%22title%22%3A%22Peak%206178%22%2C%22lngLat%22%3A%7B%22lng%22%3A-121.6830335854519%2C%22lat%22%3A48.950090235515745%7D%2C%22properties%22%3A%7B%22class%22%3A%22summit%22%2C%22ele_feet%22%3A6178%2C%22ele_meters%22%3A1883%2C%22osm_id%22%3A9007276892%2C%22symbol%22%3A%22%EE%A4%AB%22%2C%22type%22%3A%22peak%22%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-121.68304681777954%2C48.9501405179677%5D%7D%7D%2C%22osmId%22%3A9007276892%2C%22mapboxLayerId%22%3A%22GaiaTopoRasterFeet__peak-unnamed-font%22%7D) towards the end
+   - 13.6% avg grade on ascent, with a 16.5% grade × 1.73 mi [section out of the trailhead](https://www.gaiagps.com/map/?loc=14.7/-121.6890/48.9483&pubLink=nVQ3Ox9QtEyt6MELBwsKHIM6&trackId=4b78b802-1f58-4c9d-aecd-153f89e5e4b1), and a 28.6% grade × 0.25 mi [scramble up](https://www.gaiagps.com/map/?loc=14.7/-121.6890/48.9483&pubLink=xB2z0Ih3Sg940ftmcYuVmnwP&trackId=82cfe544-04ea-41b3-97d6-f4a51d3aa30d) to the [false summit](https://www.gaiagps.com/map/?loc=16.8/-121.6830/48.9514&layer=GaiaTopoRasterFeet&osmData=%7B%22type%22%3A%22osm%22%2C%22title%22%3A%22Peak%206178%22%2C%22lngLat%22%3A%7B%22lng%22%3A-121.6830335854519%2C%22lat%22%3A48.950090235515745%7D%2C%22properties%22%3A%7B%22class%22%3A%22summit%22%2C%22ele_feet%22%3A6178%2C%22ele_meters%22%3A1883%2C%22osm_id%22%3A9007276892%2C%22symbol%22%3A%22%EE%A4%AB%22%2C%22type%22%3A%22peak%22%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B-121.68304681777954%2C48.9501405179677%5D%7D%7D%2C%22osmId%22%3A9007276892%2C%22mapboxLayerId%22%3A%22GaiaTopoRasterFeet__peak-unnamed-font%22%7D) towards the end
 2. Chanterelle Trail -- technically, already did this one with the kid in a backpack, but didn't make it all the way to the lookout [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=TiDOdaOdfuanfS3ZzNtaKBLp&trackId=5784ba80aef80c15888823a9ead97824)
    - 4.34 mi round trip
    - 1,150 ft total ascent
@@ -38,7 +38,7 @@ Still to come:
 3. Ptarmigan Ridge -- waiting for more snow to melt! [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=du3rQPLKbtx7JzAJ4jagfU7e&trackId=ee70b3ce-88cb-45f0-bcee-7673dff53173)
    - 9.84 mi round trip (as mapped, probably won't go this far)
    - 2,615 ft total ascent
-   - Up and down, but the longest ascent section is only a 9.7% avg grade
+   - Up and down, but the [longest ascent section](https://www.gaiagps.com/map/?loc=14.0/-121.7433/48.8276&pubLink=RfM508CAe7XA7Oo50EkyFUb9&trackId=05ca9362-ba91-4952-8ea8-5bbd8213e60f) is only a 9.7% avg grade
 4. Shannon Ridge [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=npmqtUMGfpUqSDf7OyMveZL2&trackId=d675009f-39ab-4635-b68a-6d1acfcf7b98)
    - 7.06 mi round trip (as mapped, probably won't go this far)
    - 2,767 ft ascent
