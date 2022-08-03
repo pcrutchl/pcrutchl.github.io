@@ -1,0 +1,53 @@
+https://keybase.io/crutch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://supercres.net
+  * I am crutch (https://keybase.io/crutch) on keybase.
+  * I have a public key ASDniLfdG-G72a3pdFvoHtnLkfjLq947Pgi_YB9sOMgo3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120359275f5552eaa66ad94fb15ed3c81de8c5f66ad8fa5086482e4afd020e0ea400a",
+      "host": "keybase.io",
+      "kid": "0120e788b7dd1be1bbd9ade9745be81ed9cb91f8cbabde3b3e08bf601f6c38c828de0a",
+      "uid": "74abd8c158701f5d118b8d5cd76c0319",
+      "username": "crutch"
+    },
+    "merkle_root": {
+      "ctime": 1659551728,
+      "hash": "f15ede26809108335b84523536ae0743850e82ac23d9c8f93b482d4f2e93f4270190c76c736c9f2aa73211c1b147dc253415328fd149db924ebaa3940c640597",
+      "hash_meta": "d7cc8266e38956d1bb505c4b5ffaab9ec9426efb71513bc165edf1f8c85f04b3",
+      "seqno": 22961666
+    },
+    "service": {
+      "entropy": "4+jAakbsw7R26KtPtIhMAB6i",
+      "hostname": "supercres.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1659551751,
+  "expire_in": 504576000,
+  "prev": "710098f3a19475e2424712c4c9025e43c4cc38478a1b9a7bf21b19ee15de4c96",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg54i33Rvhu9mt6XRb6B7Zy5H4y6veOz4Iv2AfbDjIKN4Kp3BheWxvYWTESpcCMsQgcQCY86GUdeJCRxLEyQJeQ8TMOEeKG5p78hsZ7hXeTJbEIG2k0e8ey7zwz/nGdIN7aWfV03hqQy9Lv/xhcrq1ExllAgHCo3NpZ8RAtSsSu1vNgkuLj7iiRgnnBbwBy1wY+J9lO2QkcNPWJW/oROxn3A06+8N8TAvzi6N1RHG4fs/J2Rc1AXvpAZGFBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDei7andS1dAtVE4RcCH7hCPzJFm59/6R5j8pAhV2QSwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/crutch
