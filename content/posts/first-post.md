@@ -11,4 +11,6 @@ I just got really tired of finding a decent static-looking Wordpress template.
 
 I'm also using this to disseminate more widely a portrait of myself I commissioned from [Bec Hurley](https://www.bechurley.com) [{{< icon "twitter" >}}](http://twitter.com/becpng)[{{< icon "instagram" >}}](http://instagram.com/bec.png) &nbsp;that I really like; highly recommended.
 
-Naturally the site isn't even at its proper URL as I write this. It's being transferred from my old host now (whom I used for over 20 years!).
+~~Naturally the site isn't even at its proper URL as I write this. It's being transferred from my old host now (whom I used for over 20 years!).~~
+
+_Update Aug 3:_ Finally got the domain switched over. We're live!
