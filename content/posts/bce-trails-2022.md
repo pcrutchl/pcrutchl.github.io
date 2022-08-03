@@ -4,11 +4,11 @@ date: 2022-08-03T09:37:55-07:00
 draft: false
 ---
 
-I moved to Bellingham WA in March 2020 (great timing! 🦠😷) and discovered pretty quickly that, hey, hiking is pretty cool. I'm a creature of habit, though, and if I didn't have something kicking me out of a rut I'd probably hike the same handful of trails over and over. Don't get me wrong, almost every hiking trail around here is stunning, but some variety is nice.
+I moved to Bellingham WA in March 2020 (great timing! 🦠😷) and discovered pretty quickly that, hey, hiking is cool. I'm a creature of habit, though, and if I didn't have something kicking me out of a rut I'd probably hike the same handful of trails over and over. Don't get me wrong, almost every hiking trail around here is stunning, but some variety is nice.
 
-Enter the yearly [Backcountry Essentials](https://backcountryessentials.net) Trail Challenge. Every year in late April / early May they publish a list of ten hiking trails on Instagram, and if you do eight of them before the end of September, you get entered in a giveaway for some gear. The gear is really a bonus, though; the main benefit is (a) motivation to get out consistently, (b) a list of sweet new-to-me trails to check out. (I think *one* last year was one I'd done before, none this year.)
+Enter the yearly [Backcountry Essentials](https://backcountryessentials.net) Trail Challenge. Every year in late April / early May this excellent local outdoors shop publishes a list of ten hiking trails on Instagram, and if you do eight of them before the end of September, you get entered in a giveaway for some gear. The gear is really a bonus, though; the main benefit is (a) added motivation to get out consistently, (b) a list of sweet mostly-new-to-me trails to check out. (I think *one* last year was one I'd done before, none this year.)
 
-Anyway, it's fun, and pushes me to get out and see new places. The trails are almost always stunning, and often less crowded than the North Cascades' greatest hits. Here's 2022's trail reports, in which I tried to get creative with layouts etc:
+It's fun, motivates me to take a few pictures, and pushes me to get out and see new places. The trails are almost always stunning, and often less crowded than the North Cascades' greatest hits. Here's 2022's trail reports, in which I tried to get creative with layouts etc:
 
 1. [Fragrance Lake via Two Dollar Trail {{< icon "instagram" >}}](https://www.instagram.com/p/Cd4DFmJPYK9/)
 2. [Baker Lake {{< icon "instagram" >}}](https://www.instagram.com/p/CfpCAE1PUwr/)
