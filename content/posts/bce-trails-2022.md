@@ -24,8 +24,9 @@ It's fun, motivates me to take a few pictures, and pushes me to get out and see 
    - [GPS track, descent only](https://www.gaiagps.com/map/?loc=13.0/-121.0960/48.6543&pubLink=VeIiz57feK1C9xjAd12UmW8y&trackId=006d9a8dcc7355ec893778f671b4573d)
 5. [Park Butte {{< icon "instagram" >}}](https://www.instagram.com/p/CgvpmF6uF1J/)
    - [GPS track, descent only](https://www.gaiagps.com/map/?loc=14.3/-121.8405/48.7121&pubLink=eor1ONrUz8CWxnATfyyVBe9D&trackId=16de681c340c18079e1017ff177ee2d9)
-6. [Mt. Dickerman {{< icon "instagram" >}}](https://www.instagram.com/p/ChX9lS7Pz7p/) -- this one _was_ ambitious (as anticipated) but very enjoyable
-   - [GPS track, 3,898 ft of clumbing over 9.41 mi](https://www.gaiagps.com/map/?loc=14.0/-121.4907/48.0603&pubLink=x0OaLmEYWfqMCuNLdBtYygwz&trackId=02b653f34a09a84fd3d18c0591abbc64)
+6. [Mt. Dickerman {{< icon "instagram" >}}](https://www.instagram.com/p/ChX9lS7Pz7p/)
+   - this one _was_ ambitious (as anticipated), 3,898 ft of climbing over 9.41 mi, but very enjoyable
+   - [GPS track](https://www.gaiagps.com/map/?loc=14.0/-121.4907/48.0603&pubLink=x0OaLmEYWfqMCuNLdBtYygwz&trackId=02b653f34a09a84fd3d18c0591abbc64)
    - [route as planned:](https://www.gaiagps.com/map/?loc=16.7/-121.4731/48.0677&pubLink=AEodvXVtUtfR66FXSjDUfVMV&trackId=fbc85b3e-9cd8-4916-b2b8-1f1a80150918)
      - 7.77 mi round trip
      - 4,184 ft ascent
@@ -49,6 +50,5 @@ Still to come:
    - 7.06 mi round trip (as mapped, probably won't go this far)
    - 2,767 ft ascent
    - 14.8% avg grade on ascent
-5. 
 
 2021 hikes are scattered around [my IG profile](https://www.instagram.com/supercres/).
