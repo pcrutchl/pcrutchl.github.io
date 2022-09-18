@@ -39,7 +39,14 @@ It's fun, motivates me to take a few pictures, and pushes me to get out and see 
      - 4.34 mi round trip
      - 1,150 ft total ascent
      - 9.4% avg grade on ascent
-
+8. [Shannon Ridge {{< icon "instagram" >}}](https://www.instagram.com/p/CiolLAPOrBB/?utm_source=ig_web_copy_link)
+   - Last-minute solo hike for number 8 (though I'm hoping to get 1-2 more in this month)
+   - Ended up going farther than planned with a few more "Oh I wonder what's around that ridge..." extensions. On the track you can see that I accidentally left the trail looking (in vain) for a view...
+   - [GPS track](https://www.gaiagps.com/map/?loc=13.6/-121.6228/48.7844&pubLink=x2qZ0td3PwAb04Mt6cC8kMYr&trackId=ee46d657d488a50ba8084ab36111178b)
+   - [route as planned:](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=npmqtUMGfpUqSDf7OyMveZL2&trackId=d675009f-39ab-4635-b68a-6d1acfcf7b98)
+     - 7.06 mi round trip
+     - 2,767 ft ascent
+     - 14.8% avg grade on ascent
 
 Still to come:
 1. Yellow Aster Butte [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=LzLVBZsmhs6afqVtCHi7M8E8&trackId=545fcc03-da05-4913-8750-af4d400cc775)
@@ -50,9 +57,6 @@ Still to come:
    - 9.84 mi round trip (as mapped, probably won't go this far)
    - 2,615 ft total ascent
    - Up and down, but the [longest ascent section](https://www.gaiagps.com/map/?loc=14.0/-121.7433/48.8276&pubLink=RfM508CAe7XA7Oo50EkyFUb9&trackId=05ca9362-ba91-4952-8ea8-5bbd8213e60f) is only a 9.7% avg grade
-3. Shannon Ridge [(route plan)](https://www.gaiagps.com/map/?loc=8.1/-122.3481/48.4965&pubLink=npmqtUMGfpUqSDf7OyMveZL2&trackId=d675009f-39ab-4635-b68a-6d1acfcf7b98)
-   - 7.06 mi round trip (as mapped, probably won't go this far)
-   - 2,767 ft ascent
-   - 14.8% avg grade on ascent
+
 
 2021 hikes are scattered around [my IG profile](https://www.instagram.com/supercres/).
