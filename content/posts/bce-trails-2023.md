@@ -72,4 +72,4 @@ The (remaining) hikes for this year are:
 
 
 
-2021 hikes are scattered around [my IG profile](https://www.instagram.com/supercres/) and 2022 hikes are [here]({{< ref "/posts/bce-trails-2023" >}}).
+2021 hikes are scattered around [my IG profile](https://www.instagram.com/supercres/) and 2022 hikes are [here]({{< ref "/posts/bce-trails-2022" >}}).
