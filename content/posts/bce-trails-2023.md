@@ -8,7 +8,7 @@ draft: false
 Here we go again!
 {{< /lead >}}
 
-Following a successful run of the [BCE Trail Challenge in 2022]({{< ref "/posts/bce-trails-2023" >}}), the 2023 hikes were [just posted](https://www.instagram.com/p/CspnkUvLM8u/), and I'm getting excited.
+Following a successful run of the [BCE Trail Challenge in 2022]({{< ref "/posts/bce-trails-2022" >}}), the 2023 hikes were [just posted](https://www.instagram.com/p/CspnkUvLM8u/), and I'm getting excited.
 
 That's the [Backcountry Essentials](https://backcountryessentials.net) Trail Challenge. Every year in late April / early May this excellent local outdoors shop publishes a list of ten hiking trails on Instagram, and if you do eight of them before the end of September, you get entered in a giveaway for some gear.
 
