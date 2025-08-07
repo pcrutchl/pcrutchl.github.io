@@ -5,10 +5,12 @@ draft: false
 ---
 
 {{< lead >}}
-I'm a data scientist, dad, coffee enthusiast, budding hiker, and extremely poor skiier living in Bellingham, Washington, USA.
+I'm a data scientist and machine learning engineer, dad, coffee enthusiast, budding hiker, and extremely poor skiier living in Bellingham, Washington, USA.
 {{< /lead >}}
 
-I have a background in engineering ([Penn Bioengineering](https://be.seas.upenn.edu) BSE '07/MSE '17) and psychology, with academic research experience in [human memory](https://memory.psych.upenn.edu/Main_Page) and [social media, personality, and mental health](http://wwbp.org). I continued working on social media and mental health in industry at [Qntfy](https://qntfy.com), now part of [SonderMind](https://sondermind.com/), where I currently work on matching prospective clients to mental health providers.
+I have a background in engineering ([Penn Bioengineering](https://be.seas.upenn.edu) BSE '07/MSE '17) and psychology, with academic research experience in [human memory](https://memory.psych.upenn.edu/Main_Page) and [social media, personality, and mental health](http://wwbp.org). I continued working on social media and mental health in industry and government research at [Qntfy](https://qntfy.com), now part of [SonderMind](https://sondermind.com/), where I worked on ML solutions for matching prospective clients to mental health providers, targeting conversion and clinical outcomes.
+
+From Sondermind I was recruited to [Aura](https://aura.com) to work on distilling a huge volume of security suite data (VPN transactions) into informative signals of mental wellbeing and behavioral risk assessment for youth users. I have made meaningful progress towards the broad goal of dashboarding "Is my child okay?" by delivering data products related to sleep and predicting "risk" related to network traffic temporal patterns and app categories.
 
 [My publication list can be found here.](https://scholar.google.com/citations?user=7BpsrqEAAAAJ&hl=en&oi=ao)
 
